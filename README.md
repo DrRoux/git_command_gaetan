@@ -9,6 +9,14 @@
 
 ## Un peu de documentation Git
 
-* ```git init``` : [GitHub](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) 
+* [git init](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) 
+
+##  Liens de téléchargement de Git
+
+Windows | Mac | Linux
+------- | --- | -----
+[![GitHub Logo](windows.png)](https://git-scm.com/download/win) | [![GitHub Logo](apple.png)](https://git-scm.com/download/mac) | 
+[![GitHub Logo]linux.png)](https://git-scm.com/download/linux)
+
 
 ![GitHub Logo](homer.jpg)
