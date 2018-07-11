@@ -16,8 +16,7 @@
 Windows | Mac | Linux
 ------- | --- | -----
 ![GitHub Logo](windows.png) | ![GitHub Logo](apple.png) | ![GitHub Logo](linux.png)
-[Cliquez ici](https://git-scm.com/download/win) | [Cliquez ici](https://git-scm.com/download/mac) | [Cliquez 
-ici](https://git-scm.com/download/linux)
+[Cliquez ici](https://git-scm.com/download/win) | [Cliquez ici](https://git-scm.com/download/mac) | [Cliquez ici](https://git-scm.com/download/linux)
 
 
 ![GitHub Logo](homer.jpg)
