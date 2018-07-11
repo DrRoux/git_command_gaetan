@@ -7,3 +7,4 @@
 * ```git stash``` : permet de créer une sorte de commit temporaire (seulement en local)
 * ```git checkout``` : permet de se placer sur une autre branche 
 
+:tada:
