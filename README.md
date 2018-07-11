@@ -1,4 +1,4 @@
-# TP Git / GitHub
+# TP Git / GitHub :metal:
 
 ## Quelques commandes utiles à l'utilisation de Git & GitHub
 
@@ -7,4 +7,4 @@
 * ```git stash``` : permet de créer une sorte de commit temporaire (seulement en local)
 * ```git checkout``` : permet de se placer sur une autre branche 
 
-:tada:
+:ok_hand:
