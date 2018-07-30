@@ -19,4 +19,3 @@ Windows | Mac | Linux
 [Cliquez ici](https://git-scm.com/download/win) | [Cliquez ici](https://git-scm.com/download/mac) | [Cliquez ici](https://git-scm.com/download/linux)
 
 
-![GitHub Logo](homer.jpg)
